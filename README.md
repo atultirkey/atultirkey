@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA/Android Development**
 
-- 👨‍💻 Resume [https://drive.google.com/file/d/1SCPhiwgiD4V1FJc8VP_-p0We4UB20vh-/view?usp=drive_link](https://drive.google.com/drive/u/0/home)
+- 👨‍💻 Resume [https://drive.google.com/file/d/1SCPhiwgiD4V1FJc8VP_-p0We4UB20vh-/view?usp=drive_link](https://drive.google.com/file/d/1uL8fvIzMjJWW2BBMpSkJgEHryT3MgQiu/view?usp=sharing)
 
 - 💬 Ask me about **React.JS**
 
